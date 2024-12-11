@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.js": "/static/js/main.bded6d9a.js",
+    "static/media/prime.webp": "/static/media/prime.1d47498517bb57767f47.webp",
+    "static/media/pl.webp": "/static/media/pl.8a161e19989d8b4021ea.webp",
+    "index.html": "/index.html",
+    "static/media/arr024.svg": "/static/media/arr024.b71dd451bad34bbae1e3861b2809c536.svg",
+    "main.bded6d9a.js.map": "/static/js/main.bded6d9a.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.bded6d9a.js"
+  ]
+}
