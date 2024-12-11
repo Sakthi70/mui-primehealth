@@ -1,0 +1,42 @@
+{
+  "name": "primehealth",
+  "version": "5.0.0",
+  "private": true,
+  "dependencies": {
+    "@babel/plugin-proposal-private-property-in-object": "^7.21.11",
+    "@emotion/react": "^11.14.0",
+    "@emotion/styled": "^11.14.0",
+    "@iconify/react": "^5.1.0",
+    "@mui/icons-material": "^6.1.10",
+    "@mui/lab": "^6.0.0-beta.18",
+    "@mui/material": "^6.1.10",
+    "@mui/x-date-pickers": "^7.23.1",
+    "@types/react": "latest",
+    "@types/react-dom": "latest",
+    "material-react-table": "^3.0.2",
+    "react": "latest",
+    "react-dom": "latest",
+    "react-router": "^7.0.2",
+    "react-scripts": "latest",
+    "simplebar-react": "^3.2.6",
+    "typescript": "latest"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
